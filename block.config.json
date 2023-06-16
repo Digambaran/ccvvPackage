@@ -1,0 +1,36 @@
+{
+  "name": "ccvvPackage",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_ccvvPackage"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "CJdQwbzUucUQFq8luo269",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
