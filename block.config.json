@@ -2,8 +2,8 @@
   "name": "ccvvPackage",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Digambaran/ccvvPackage.git",
+    "ssh": "git@github.com:Digambaran/ccvvPackage.git",
     "branch": "block_ccvvPackage"
   },
   "dependencies": {
